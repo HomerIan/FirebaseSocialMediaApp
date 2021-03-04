@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ViewPostActivity"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/activity_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/view_the_users_that_sent_you_posts"
+            android:gravity="center"
+            />
+        
+        <ImageView
+            android:id="@+id/sentPost_imageView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/image_placeholder"
+            android:contentDescription="@string/image_post"/>
+
+        <TextView
+            android:id="@+id/description_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sample text"
+            android:gravity="center"/>
+
+        <ListView
+            android:id="@+id/post_listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+</layout>

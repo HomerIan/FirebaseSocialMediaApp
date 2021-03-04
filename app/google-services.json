@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744644955580",
+    "firebase_url": "https://fir-socialmediaapp-5935b.firebaseio.com",
+    "project_id": "fir-socialmediaapp-5935b",
+    "storage_bucket": "fir-socialmediaapp-5935b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744644955580:android:9833a89bfa29eeeff52fb9",
+        "android_client_info": {
+          "package_name": "com.homerianreyes.firebasesocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744644955580-od87b88dg6mbiirhbtefquge2dgpnj9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsOgcg2ZIH6vIO0MY7LNronABtkeQ_X-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744644955580-od87b88dg6mbiirhbtefquge2dgpnj9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseSocialMediaApp</string>
+    <string name="please_enter_e_mail_here">Please enter e-mail here...</string>
+    <string name="please_enter_username_here">Please enter username here...</string>
+    <string name="please_enter_password_here">Please enter password here...</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">logout</string>
+    <string name="create_an_image_post">Create an Image Post</string>
+    <string name="image_post">image post</string>
+    <string name="enter_your_description">enter your description...</string>
+    <string name="view_the_users_that_sent_you_posts">View the users that sent you posts</string>
+    <string name="placeholder">placeholder</string>
+</resources>
